@@ -286,7 +286,7 @@ button, html [type="button"], [type="reset"], [type="submit"] {
     border-radius: 60px;
     font-family: avenir-demi-bold!important;
 }
-.btn {
+.aj-btn {
     cursor: pointer;
 }
 .text-uppercase {
@@ -295,7 +295,7 @@ button, html [type="button"], [type="reset"], [type="submit"] {
 .d-md-flex {
     display: flex !important;
 }
-.btn {
+.aj-btn {
      
     text-align: center;
     vertical-align: middle;

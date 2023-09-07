@@ -1,4 +1,4 @@
-html {
+ html {
     font-family: avenir, sans-serif;
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
@@ -632,7 +632,7 @@ h4,h5{
     margin-right: -15px;
     margin-left: -15px
  }
- map-sec:hover {
+ .map-sec:hover {
      
     box-shadow: 0 0 1rem rgba(0,0,0,.6);
     background-color: rgba(255,255,255,.25);
@@ -1153,16 +1153,17 @@ input[type="text"]::-webkit-input-placeholder{
     margin-left:50px ;
 }
 .ad-main-lower{
-    margin-top: 60px;
+   margin-top: -1rem;  
     width: 100%;
-    border-top: .5px solid rgb(127,126,247);
+    background-color:  #66c;
+   
 }
 
 .ad-lower{
     display: flex;
     justify-content: flex-start;
     margin-left: 85px;
-    margin-top: 30px;
+   
 }
 
 .ad-lower p{
@@ -1176,10 +1177,7 @@ input[type="text"]::-webkit-input-placeholder{
     margin-top: 3.5px;
 }
 
-.ad-hr{
-    color: #555555;
-    font-size: 1px;
-}
+
 
 
 
